@@ -2,7 +2,9 @@
 
 This is a repo for demonstrating how to use git with GitHub workflows.
 
-## Tasks
+**Important**: The tasks below are to be followed **during** the workshop. So, don't worry about trying to these now :)
+
+## Tasks ()
 
 1. Fork this repository.
 2. Set-up a working directory and add `upstream` and `origin` remote.
