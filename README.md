@@ -2,7 +2,7 @@
 
 This is a repo for demonstrating how to use git with GitHub workflows.
 
-## Tasks
+## Wnat to do?
 
 1. Fork this repository.
 2. Set-up a working directory and add `upstream` and `origin` remote.
